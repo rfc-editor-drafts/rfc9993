@@ -1,2 +1,1 @@
-# base-template
-Base template repository for drafts
+# Pub repo for RFC 9993
